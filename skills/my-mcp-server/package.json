@@ -1,9 +1,0 @@
-{
-  "name": "mcp-sse-bridge",
-  "version": "1.0.0",
-  "description": "Proxy to connect stdio MCP clients to SSE MCP servers",
-  "main": "bridge.js",
-  "dependencies": {
-    "eventsource": "^2.0.2"
-  }
-}
