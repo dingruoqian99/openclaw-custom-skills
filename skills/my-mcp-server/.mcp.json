@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "banana-split-mcp": {
+      "command": "node",
+      "args": [
+        "/home/team_aidmi_ai/.openclaw/workspace/skills/my-mcp-server/bridge.js"
+      ]
+    }
+  }
+}
